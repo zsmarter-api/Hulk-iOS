@@ -171,10 +171,8 @@
 		F2FB25892A41402E00B0F142 /* HULKLocalNotification.h in Headers */ = {isa = PBXBuildFile; fileRef = F2FB25682A41402E00B0F142 /* HULKLocalNotification.h */; };
 		F2FB258A2A41402E00B0F142 /* HULKSocketConfig.m in Sources */ = {isa = PBXBuildFile; fileRef = F2FB25692A41402E00B0F142 /* HULKSocketConfig.m */; };
 		F2FB258B2A41402E00B0F142 /* HULKSocketConfig.h in Headers */ = {isa = PBXBuildFile; fileRef = F2FB256A2A41402E00B0F142 /* HULKSocketConfig.h */; };
-		F2FB258C2A41402E00B0F142 /* HulkTest.h in Headers */ = {isa = PBXBuildFile; fileRef = F2FB256B2A41402E00B0F142 /* HulkTest.h */; };
 		F2FB258D2A41402E00B0F142 /* HulkThirdPartyModel.m in Sources */ = {isa = PBXBuildFile; fileRef = F2FB256C2A41402E00B0F142 /* HulkThirdPartyModel.m */; };
 		F2FB258E2A41402E00B0F142 /* HULKLocalNotification.m in Sources */ = {isa = PBXBuildFile; fileRef = F2FB256D2A41402E00B0F142 /* HULKLocalNotification.m */; };
-		F2FB258F2A41402E00B0F142 /* HulkTest.m in Sources */ = {isa = PBXBuildFile; fileRef = F2FB256E2A41402E00B0F142 /* HulkTest.m */; };
 		F2FB25902A41402E00B0F142 /* HulkKeychainQuery.m in Sources */ = {isa = PBXBuildFile; fileRef = F2FB25702A41402E00B0F142 /* HulkKeychainQuery.m */; };
 		F2FB25912A41402E00B0F142 /* HulkKeychain.h in Headers */ = {isa = PBXBuildFile; fileRef = F2FB25712A41402E00B0F142 /* HulkKeychain.h */; };
 		F2FB25922A41402E00B0F142 /* HulkKeychainQuery.h in Headers */ = {isa = PBXBuildFile; fileRef = F2FB25722A41402E00B0F142 /* HulkKeychainQuery.h */; };
@@ -530,7 +528,7 @@
 		DA12316B1D5CBC69CA42A173EB34C462 /* GMOpenSSL.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = GMOpenSSL.release.xcconfig; sourceTree = "<group>"; };
 		DBD0DFB056C0D2E23C15E8D667F4965E /* MJProperty.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MJProperty.m; path = MJExtension/MJProperty.m; sourceTree = "<group>"; };
 		DD88819EFF39FFC5F3EDBB0A26638F90 /* UIFont+YYAdd.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIFont+YYAdd.h"; path = "YYCategories/UIKit/UIFont+YYAdd.h"; sourceTree = "<group>"; };
-		DDB0463A1328F03D9FFDF48EADC4474C /* HulkSDK.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = HulkSDK.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		DDB0463A1328F03D9FFDF48EADC4474C /* HulkSDK.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = HulkSDK.podspec; sourceTree = "<group>"; tabWidth = 2; };
 		DDEB0874CCDF287F68E978D0A5D86974 /* stack.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = stack.h; path = GMFrameworks/openssl.framework/Headers/stack.h; sourceTree = "<group>"; };
 		E18C2FE91CE93E0AA1B162C0DD1495DD /* obj_mac.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = obj_mac.h; path = GMFrameworks/openssl.framework/Headers/obj_mac.h; sourceTree = "<group>"; };
 		E1E05F503C90F30C8E157374480CF13C /* dherr.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = dherr.h; path = GMFrameworks/openssl.framework/Headers/dherr.h; sourceTree = "<group>"; };
@@ -567,10 +565,8 @@
 		F2FB25682A41402E00B0F142 /* HULKLocalNotification.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = HULKLocalNotification.h; path = HulkSDK/Classes/HULKLocalNotification.h; sourceTree = "<group>"; };
 		F2FB25692A41402E00B0F142 /* HULKSocketConfig.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = HULKSocketConfig.m; path = HulkSDK/Classes/HULKSocketConfig.m; sourceTree = "<group>"; };
 		F2FB256A2A41402E00B0F142 /* HULKSocketConfig.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = HULKSocketConfig.h; path = HulkSDK/Classes/HULKSocketConfig.h; sourceTree = "<group>"; };
-		F2FB256B2A41402E00B0F142 /* HulkTest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = HulkTest.h; path = HulkSDK/Classes/HulkTest.h; sourceTree = "<group>"; };
 		F2FB256C2A41402E00B0F142 /* HulkThirdPartyModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = HulkThirdPartyModel.m; path = HulkSDK/Classes/HulkThirdPartyModel.m; sourceTree = "<group>"; };
 		F2FB256D2A41402E00B0F142 /* HULKLocalNotification.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = HULKLocalNotification.m; path = HulkSDK/Classes/HULKLocalNotification.m; sourceTree = "<group>"; };
-		F2FB256E2A41402E00B0F142 /* HulkTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = HulkTest.m; path = HulkSDK/Classes/HulkTest.m; sourceTree = "<group>"; };
 		F2FB25702A41402E00B0F142 /* HulkKeychainQuery.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HulkKeychainQuery.m; sourceTree = "<group>"; };
 		F2FB25712A41402E00B0F142 /* HulkKeychain.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HulkKeychain.h; sourceTree = "<group>"; };
 		F2FB25722A41402E00B0F142 /* HulkKeychainQuery.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HulkKeychainQuery.h; sourceTree = "<group>"; };
@@ -582,6 +578,8 @@
 		F2FB25792A41402E00B0F142 /* NSData+Tools.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSData+Tools.m"; sourceTree = "<group>"; };
 		F2FB257A2A41402E00B0F142 /* ZTPSocketManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZTPSocketManager.m; sourceTree = "<group>"; };
 		F2FB257B2A41402E00B0F142 /* HulkConfiguration.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = HulkConfiguration.m; path = HulkSDK/Classes/HulkConfiguration.m; sourceTree = "<group>"; };
+		F2FB259E2A41467D00B0F142 /* HulkTest.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = HulkTest.h; path = HulkSDK/Classes/HulkTest.h; sourceTree = "<group>"; };
+		F2FB259F2A41467D00B0F142 /* HulkTest.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = HulkTest.m; path = HulkSDK/Classes/HulkTest.m; sourceTree = "<group>"; };
 		F41740F40F8E293DE48F96E58791AD6A /* comp.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = comp.h; path = GMFrameworks/openssl.framework/Headers/comp.h; sourceTree = "<group>"; };
 		F5153896B26D84479EF13820C784ED84 /* srp.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = srp.h; path = GMFrameworks/openssl.framework/Headers/srp.h; sourceTree = "<group>"; };
 		F55BFB38D832E802108D3CEF8B5F8776 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
@@ -976,8 +974,6 @@
 				F2FB25652A41402E00B0F142 /* HULKSocket.m */,
 				F2FB256A2A41402E00B0F142 /* HULKSocketConfig.h */,
 				F2FB25692A41402E00B0F142 /* HULKSocketConfig.m */,
-				F2FB256B2A41402E00B0F142 /* HulkTest.h */,
-				F2FB256E2A41402E00B0F142 /* HulkTest.m */,
 				F2FB25602A41402D00B0F142 /* HulkThirdPartyModel.h */,
 				F2FB256C2A41402E00B0F142 /* HulkThirdPartyModel.m */,
 				F2FB25632A41402E00B0F142 /* HulkUUID.h */,
@@ -988,6 +984,8 @@
 				F2FB25742A41402E00B0F142 /* ztp */,
 				7B30E9DB157063F5762C28B513E05EAD /* Pod */,
 				54A2348CA51FD15BC5EC9A9466CBC68D /* Support Files */,
+				F2FB259E2A41467D00B0F142 /* HulkTest.h */,
+				F2FB259F2A41467D00B0F142 /* HulkTest.m */,
 			);
 			name = HulkSDK;
 			path = ../..;
@@ -1246,7 +1244,6 @@
 				F2FB25962A41402E00B0F142 /* ZTPSocketManager.h in Headers */,
 				67A4DC4B4DB5321811BC3D3627AE855E /* GCDAsyncSocket.h in Headers */,
 				B19D3C79B36157522E7662E737D558EF /* GCDAsyncUdpSocket.h in Headers */,
-				F2FB258C2A41402E00B0F142 /* HulkTest.h in Headers */,
 				F2FB25822A41402E00B0F142 /* HULKSocket.h in Headers */,
 				F2FB258B2A41402E00B0F142 /* HULKSocketConfig.h in Headers */,
 				F2FB25842A41402E00B0F142 /* HulkUUID.h in Headers */,
@@ -1562,7 +1559,6 @@
 				F2FB25902A41402E00B0F142 /* HulkKeychainQuery.m in Sources */,
 				F2FB25862A41402E00B0F142 /* HULKSocket.m in Sources */,
 				F2FB258A2A41402E00B0F142 /* HULKSocketConfig.m in Sources */,
-				F2FB258F2A41402E00B0F142 /* HulkTest.m in Sources */,
 				F2FB258E2A41402E00B0F142 /* HULKLocalNotification.m in Sources */,
 				F2FB25852A41402E00B0F142 /* HulkService.m in Sources */,
 				F2FB257C2A41402E00B0F142 /* HulkUUID.m in Sources */,
