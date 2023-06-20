@@ -1,13 +1,22 @@
+source 'https://github.com/CocoaPods/Specs.git'
 use_frameworks!
 
-platform :ios, '10.0'
 
-target 'HulkSDK_Example' do
-  pod 'HulkSDK', :path => '../'
 
-  target 'HulkSDK_Tests' do
+target 'Hulk_Example' do
+  platform :ios, '9.0'
+  pod 'Hulk', :path => '../'
+
+  target 'Hulk_Tests' do
     inherit! :search_paths
 
     
   end
+end
+
+
+
+target 'HulkServiceExtension' do 
+    platform :ios, '10.0'
+    pod 'HulkExtensionSDK'
 end

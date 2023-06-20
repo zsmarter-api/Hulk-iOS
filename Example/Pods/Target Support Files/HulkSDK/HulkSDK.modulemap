@@ -1,6 +1,0 @@
-framework module HulkSDK {
-  umbrella header "HulkSDK-umbrella.h"
-
-  export *
-  module * { export * }
-}

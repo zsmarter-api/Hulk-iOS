@@ -1,0 +1,6 @@
+framework module Hulk {
+  umbrella header "Hulk-umbrella.h"
+
+  export *
+  module * { export * }
+}

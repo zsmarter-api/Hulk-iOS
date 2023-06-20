@@ -1,9 +1,9 @@
 //
-//  HulkSDKTests.m
-//  HulkSDKTests
+//  HulkTests.m
+//  HulkTests
 //
-//  Created by zsmarter-api on 06/20/2023.
-//  Copyright (c) 2023 zsmarter-api. All rights reserved.
+//  Created by ztzh_xuj on 11/02/2021.
+//  Copyright (c) 2021 ztzh_xuj. All rights reserved.
 //
 
 @import XCTest;

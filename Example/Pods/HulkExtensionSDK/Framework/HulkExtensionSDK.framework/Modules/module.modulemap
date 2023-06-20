@@ -1,0 +1,6 @@
+framework module HulkExtensionSDK {
+  umbrella header "HulkExtensionSDK.h"
+
+  export *
+  module * { export * }
+}
