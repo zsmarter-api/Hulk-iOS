@@ -1,0 +1,41 @@
+PODS:
+  - CocoaAsyncSocket (7.6.5)
+  - GMObjC (3.3.2):
+    - GMOpenSSL
+  - GMOpenSSL (2.2.9)
+  - HulkSDK (0.1.0):
+    - CocoaAsyncSocket
+    - GMObjC
+    - MJExtension
+    - YYCategories
+  - MJExtension (3.4.1)
+  - YYCategories (1.0.4):
+    - YYCategories/no-arc (= 1.0.4)
+  - YYCategories/no-arc (1.0.4)
+
+DEPENDENCIES:
+  - HulkSDK (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - CocoaAsyncSocket
+    - GMObjC
+    - GMOpenSSL
+    - MJExtension
+    - YYCategories
+
+EXTERNAL SOURCES:
+  HulkSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CocoaAsyncSocket: 065fd1e645c7abab64f7a6a2007a48038fdc6a99
+  GMObjC: 5e251e7ab2bf8127dda70f90e827a5323137ca7f
+  GMOpenSSL: d6d119ff8f00d4e03c2cdf733fb61e98e22da9c7
+  HulkSDK: c285e6b0ab19f5fe6526aa58efc5ebf890455443
+  MJExtension: 21c5f6f8c4d5d8844b7ae8fbae08fed0b501f961
+  YYCategories: 6bcd4314c6661a561410dce4a793379ebd306abd
+
+PODFILE CHECKSUM: 088bff71fa06b38ff3884bd97486cf2f432c7ae6
+
+COCOAPODS: 1.11.3

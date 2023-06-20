@@ -1,0 +1,40 @@
+{
+  "name": "HulkSDK",
+  "version": "0.1.0",
+  "summary": "Hulk 更方便、更可靠的推送",
+  "description": "Hulk 更方便、更可靠的推送",
+  "homepage": "https://github.com/zsmarter-api/Hulk-iOS.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zsmarter-api": "1062303846@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/zsmarter-api/Hulk-iOS.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "Hulk/Classes/**/*",
+  "pod_target_xcconfig": {
+    "VALID_ARCHS": "x86_64 armv7 arm64"
+  },
+  "static_framework": true,
+  "dependencies": {
+    "MJExtension": [
+
+    ],
+    "CocoaAsyncSocket": [
+
+    ],
+    "YYCategories": [
+
+    ],
+    "GMObjC": [
+
+    ]
+  }
+}
