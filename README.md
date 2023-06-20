@@ -50,10 +50,10 @@ Hulk支持iOS9及以上系统。
 ### 导入方式
 
 ```一、推荐使用 CocoaPods 接入```
-1、在 Podfile 文件中，使用```pod 'HulkSDK'``` 添加依赖。
+1、在 Podfile 文件中，使用```pod 'Hulk'``` 添加依赖。
 
 ```shell
-pod 'HulkSDK'
+pod 'Hulk'
 ```
 
 2、执行 `pod install` 即可完成接入。
@@ -63,7 +63,7 @@ pod 'HulkSDK'
 #### 添加头文件
 
 ```objc
-#import <HulkSDK/HulkSDK.h>
+#import <Hulk/HulkSDK.h>
 ```
 
 #### AppDelegate中配置
